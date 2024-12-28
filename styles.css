@@ -87,3 +87,6 @@ footer{
     background-color: black;
     padding: 10px 0;
 }
+.project-card p{
+    text-align="justify"
+}
